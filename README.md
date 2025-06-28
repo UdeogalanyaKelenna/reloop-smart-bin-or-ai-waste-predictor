@@ -22,10 +22,33 @@ Food waste is a $1 trillion problem globally — and up to 50% of produce in Afr
 - Logistics hubs looking to reduce post-harvest losses
 - Farmers needing real-time spoilage insights
 
-## 📦 Repo Structure (coming soon)
+## 📦 Reloop Structure (coming soon)
 
 ```bash
 /firmware/         # Code for sensors and bin controller (Arduino, Raspberry Pi)
 /ai-models/        # ML notebooks + scripts for waste prediction
 /web-dashboard/    # Frontend/backend for waste analytics dashboard
 /docs/             # Specs, designs, pilot plans, investor briefs
+
+## 🚀 Status
+
+- Currently in **prototyping phase**
+- Preparing for **YC** and pilot testing in **Nigeria**
+- Open to **collaborators**, engineers, and climate-tech advisors
+
+## 🤝 How to Contribute
+
+We’re early-stage and actively looking for:
+
+- **AI/ML engineers** (time-series, forecasting, optimization)
+- **Hardware/Firmware engineers** (IoT, embedded systems)
+- **Web devs** (React, Python, Firebase, etc.)
+
+DM me or [open an issue](../../issues) to collaborate.
+
+## 📫 Contact
+
+**Kelenna Udeogalanya**  
+Founder, ReloopTechnology  
+📍 Nigeria | 🌍 Global Vision  
+📧 udeogalanya.kelenna@gmail.com
